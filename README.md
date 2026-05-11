@@ -18,7 +18,7 @@ VibeCom is a hosted remote MCP server using Streamable HTTP and OAuth.
 {
   "mcpServers": {
     "vibecom-growth": {
-      "url": "https://www.vibecom.app/api/mcp/growth"
+      "url": "https://www.vibecom.app/mcp"
     }
   }
 }
